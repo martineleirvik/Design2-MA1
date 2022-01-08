@@ -1,0 +1,23 @@
+* {
+  margin: none;
+}
+
+nav {
+  background-color: #28316b;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 15px;
+}
+
+nav li {
+  list-style-type: none;
+  display: inline;
+}
+
+body {
+  background-image: url("/img/white_carbon.png");
+  background-repeat: repeat;
+}
